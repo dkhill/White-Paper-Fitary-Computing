@@ -2,7 +2,7 @@
 
 **Author**: David K. Hill  
 **Date**: September 2025  
-**Location**: Colorado, USA 
+**Location**: Colorado, USA   
 **Audience**: Engineers, computer scientists, theorists, and legacy-minded learners  
 **Field**: Modular Automation, Symbolic Logic, Resonant Systems
 **Purpose**: To teach the principles, simulation, and philosophical underpinnings of fitary logic — a base-15 symbolic system hosted in crystalline resonance.
