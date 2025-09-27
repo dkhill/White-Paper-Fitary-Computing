@@ -13,7 +13,7 @@ This repository documents the fitary logic framework — a modular, base-15 symb
 - [**Teaching Guide.md**](<Teaching Guide.md>)  
   Modular walkthrough for educators and future readers, with diagrams, glossary, and reproducible examples.
 
-- [**Glossary.md**](<Glossary of Symbolic Terminology.md>)  
+- [**Glossary of Fitary Logic and Symbolic Terminology.md**](<Glossary of Symbolic Terminology.md>)  
   A glossary of original terminology — including fit, fitary, and resonance-based logic — is available here to support mnemonic clarity and future teaching.
 
 ## 🧠 Topics Covered
