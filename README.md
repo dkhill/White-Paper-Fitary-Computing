@@ -4,13 +4,13 @@ This repository documents the fitary logic framework — a modular, base-15 symb
 
 ## 📚 Contents
 
-- **FITARY A Whitepaper.md**  
+- [**FITARY A Whitepaper.md**](FITARY%20A%20Whitepaper.md)  
   Foundational theory of fitary logic, including symbolic encoding, harmonic mapping, and philosophical intent.
 
-- **Fitary Logic.md**  
+- [**Fitary Logic.md**](Fitary%20Logic.md)  
   Technical breakdown of logic gates, base-15 states, and crystalline structures used in symbolic computation.
 
-- **Teaching Guide.md**  
+- [**Teaching Guide.md**](Teaching%20Guide.md)  
   Modular walkthrough for educators and future readers, with diagrams, glossary, and reproducible examples.
 
 ## 🧠 Topics Covered
