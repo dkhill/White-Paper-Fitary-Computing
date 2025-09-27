@@ -3,7 +3,7 @@
 
 **Author**: David K. Hill  
 **Date**: September 2025  
-**Location**: Centennial, CO  
+**Location**: Colorado, USA
 **Audience**: Engineers, computer scientists, theorists, and legacy-minded learners  
 **Field**: Modular Automation, Symbolic Logic, Resonant Systems
 

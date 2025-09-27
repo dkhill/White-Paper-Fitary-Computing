@@ -28,3 +28,15 @@ This work is designed to outlast its author. It encodes intent, clarity, and sym
 ## 📜 License
 
 This repository is licensed under the MIT License. See `LICENSE` for details.
+
+---
+
+**Published:** September 2025  
+**Location:** Colorado, USA  
+**Author:** David K. Hill  
+**Repository:** [github.com/davidkhill/fitary-whitepaper](https://github.com/davidkhill/fitary-whitepaper)  
+**License:** MIT — Free to use, adapt, and build upon with attribution.
+
+This work is part of an ongoing legacy initiative to encode symbolic logic, harmonic resonance, and modular infrastructure into reproducible systems that endure across generations. All terminology, diagrams, and encoding schemes are designed for mnemonic clarity, auditability, and cross-platform accessibility.
+
+
