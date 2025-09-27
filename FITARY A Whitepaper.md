@@ -11,6 +11,8 @@
 
 FITARY is a modular instruction set architecture built on symbolic resonance, phase logic, and dry-run-safe execution. It encodes computation as harmonic manipulation of symbolic fits — values like `+3`, `~2`, or `(±n)` — and models memory, control flow, and arithmetic through resonance metaphors. Designed for legacy-proof teaching and modular automation, FITARY bridges symbolic logic with future computing paradigms.
 
+The terms “fit” and “fitary” are original to this work, coined by the author to describe symbolic units and logic structures within a modular base-15 system. They are intended to support mnemonic clarity, legacy-proof encoding, and future teaching.
+
 ---
 
 ## 1. Symbolic Foundations
